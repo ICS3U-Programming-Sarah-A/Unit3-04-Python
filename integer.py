@@ -11,7 +11,8 @@ def main():
     user_number = int(input("Enter an integer: "))
     print("")
 
-    # check if the number user entered is positive, negative, or zero
+    # check if the number user entered is positive, negative, or zero, then
+    # display results. 
     if user_number > 0:
         print(user_number, "is a positive number")
     elif user_number < 0:
