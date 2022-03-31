@@ -3,7 +3,7 @@
 # Created by: Sarah
 # Created on: Mar 31, 2022
 # This program asks the user to enter an interger. It then
-# checks to see if number etered is positive, negative, or just zero.
+# checks to see if the number entered is positive, negative, or just zero.
 
 
 def main():
